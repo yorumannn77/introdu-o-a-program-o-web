@@ -1,14 +1,14 @@
 const alunos = [
     {
-        nome: "Mayk",
+        nome: "Leo",
         nota: 9.8
     },
     {
-    nome: "Diego",
+    nome: "Oel",
     nota: 10
     },
     {
-        nome: "Fulano",
+        nome: "Moses",
         nota: 2
     }
 ]

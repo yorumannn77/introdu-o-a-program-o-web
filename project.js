@@ -1,6 +1,6 @@
 const alunos = [
     {
-        nome: "AAA",
+        nome: "AAB",
         nota: 9.8
     },
     {
